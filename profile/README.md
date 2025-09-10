@@ -1,3 +1,5 @@
+<img src="https://emedia1.nhs.wales/NWISWalesNHSUK/cache/file/1CEC3541-24EF-4A4E-A903DC24F20682EB_carouselimage.png?cacheid=0.4757376463476517" alt="GIG Cymru - NHS Wales">
+
 # Digital Health and Care Wales (DHCW)  
 # Iechyd a Gofal Digidol Cymru (IGDC)  
 
